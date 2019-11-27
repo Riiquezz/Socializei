@@ -11,7 +11,7 @@ import {Provider} from 'react-redux';
 import  {composeWithDevTools} from 'redux-devtools-extension';
 import rootReducer from './reducer/index.js';
 import thunk from 'redux-thunk';
-import {BrowserRouter  as Router, Route,Switch} from 'react-router-dom'
+import {HashRouter  as Router, Route,Switch} from 'react-router-dom'
 import Loading from './components/loading';
 import noteDetails from './components/noteDetails';
 import searchComponent from './components/searchComponent';
