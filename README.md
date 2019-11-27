@@ -1,5 +1,5 @@
 # Código TOP
 
-Tudo nosso gurizada.
+Tecnologias utilizadas: React, Firebase, componentes do React para estilos e etc.
 
-Henrique Pomatti dos Santos
+Aluno: Henrique Pomatti dos Santos
